@@ -26,6 +26,6 @@
     "homepage": "https://github.com/MyEtherWallet/VanityEth#readme",
     "dependencies": {
         "ethereumjs-util": "^5.1.1",
-        "yargs": "^7.0.1"
+        "yargs": "^13.1.0"
     }
 }
